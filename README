@@ -1,9 +1,52 @@
 
-##### PRISHTINA BUSES - PROJECT #####
+###### PRISHTINA BUSES - PROJECT ######
+
+
+### Code ###
+
+Prishtina Buses - Project
+Code writen on Javascript (Open Layers)
+Copyright (C) 2011  Altin Ukshini - altin.ukshini@gmail.com
+
+The source code is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+http://www.gnu.org/licenses
+
+
+### Data/Content ###
+
+The data and content of this project are licensed under:
+Creative Commons Attribution-ShareAlike 3.0 Unported License.
+http://creativecommons.org/licenses/by-sa/3.0/
+
+You are free:
+* to Share — to copy, distribute and transmit the work
+* to Remix — to adapt the work
+* to make commercial use of the work
+
+Under the following conditions:
+* Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+* Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+
+With the understanding that:
+* Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+* Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+* Other Rights — In no way are any of the following rights affected by the license:
+        - Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+        - The author's moral rights;
+        - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 
 
 
-## About the Project
+
+### About the Project ###
 
 As the capital city, Prishtina has no information system on public bus transportation. However, there are 16 bus lines operating in Prishtina and in the closest area, but locals as well as internationals are very confused about its operation. This fact, together with our belief that people would use it more often if there is more information, was the main impetus to start this project.
 
@@ -21,26 +64,10 @@ We thank UNICEF Innovations Lab and FLOSSK team for their support and we encoura
 
 
 
-## Team
+### Team ###
 
 A group of enthusiastic young volunteers, both locals and internationals, with the passion for technology and innovation. The local team members (mainly FLOSSK members) are young guys with experience in the area of IT technologies, whereas two international volunteers contributed to the project with their skills and experience in project management.
 
 We are:    Gent Thaçi  -  Altin Ukshini  -  Lulzim Gashi  -  Giulia Martin  -  Daniela Bodnarova  -  Jeton Ahmetaj  -  Ardian Haxha  -  Besfort Guri  -  Ardi Hasimja  -  Shkelqim Ahmeti
 
 We committed our time in order to help make Prishtina a better place for living. We believe that each and every individual of our community can contribute in his own way and initiate a positive change.
-
-
-
-
-## Code
-
-# Code writen on Javascript (OpenLayers)
-# Version: 2.0
-# Licenced under Gnu Public License Creative Commons Attribution-ShareAlike 3.0 Unported License.
-# http://creativecommons.org/licenses/by-sa/3.0/
-#
-# Coded by: Altin Ukshini
-# FLOSSK member
-# Contact: altin.ukshini@flossk.org
-
-
