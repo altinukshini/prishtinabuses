@@ -1,0 +1,45 @@
+
+##### Projekti - PRISHTINA BUSES #####
+
+
+
+## Për Projektin
+
+Si kryeqytet, Prishtina nuk ka sistem informacioni mbi transportin publik me autobus. Megjithatë, ka 16 linja të autobusëve që operojnë në Prishtinë dhe në zonën më të afërt, por vendasit si dhe ndërkombëtarët janë të hutuar shumë në lidhje me operimin e tij. Ky fakt, së bashku me besimin tonë se njerëzit do të përdorin atë më shpesh nëse ka më shumë informacion, ishte një shtysë kryesore për të filluar këtë projekt.
+
+Pas miratimit të projektit nga ana e UNICEF Innovations, faza e parë e projektit filloi.
+Ne morrëm çdo linjë autobusi në një ekip prej dy vetëve dhe ndoqëm linjën me një pajisje GPS Garmin cilat morrëm informatat për të gjitha rrugët dhe stacionet e autobusëve. Këto informata u bartën lehtë në një kompjuter me një softuer për harta.
+Gjithashtu përderisa nodhdeshim në autobus, morrëm informacion të saktë nga personeli për orarin e operimit të autobusit në të cilin ndodheshim.
+
+Pasi Ekipi i kishte të gjitha informacionet dhe të dhënat e linjave të autobusëve, IT'të punuan shumë për të krijuar këtë faqe deri sa të dukej si tani.
+
+Objektivi afatgjatë i projektit Prishtina Buses, i cili kushtoi vetëm rreth 500 Euro, është të kontribuojë në përmirësimin e cilësisë së jetës në Prishtinë dhe për të mbështesim njerëzit që të marrin autobusë më shpesh se sa makina, si dhe për të kontribuar në uljen e ndotjes në qytet.
+
+Ne shpresojmë se kz projekt do të shërbejë si një frymëzim për administratën publike për të kryer dhe të mbështetur këtë lloj projekti në qytete të tjera në Kosovë.
+
+Ne falënderojmë UNICEF Innovations Lab dhe ekipin e FLOSSK për mbështetjen e tyre dhe inkurajojmë të gjithë personat me ide të reja t'i bëjnë ato të vërteta.
+
+
+
+## Ekipi
+
+Një grup vullnetarësh të rinj entuziastë, si vendorë ashtu edhe ndërkombëtarë, me pasion për teknologjinë dhe inovacionin. Anëtarët e ekipit vendor (kryesisht anëtarë nga FLOSSK) janë djem të rinj me përvojë në fushën e IT-së, ndërsa dy vullnetarët ndërkombëtarë kanë kontribuar në projekt me aftësitë dhe përvojën e tyre në menaxhimin e projektit.
+
+Ne jemi: Gent Thaçi  -  Altin Ukshini  -  Lulzim Gashi  -  Giulia Martin  -  Daniela Bodnarova  -  Jeton Ahmetaj  -  Ardian Haxha  -  Besfort Guri  -  Ardi Hasimja  -  Shkelqim Ahmeti
+
+Ne dedikuam kohën tonë në mënyrë që të ndihmojë për ta bërë Prishtinën një vend më të mirë për të jetuar. Ne besojmë se çdo individ i komunitetit tonë mund të kontribuoj në mënyrën e vet dhe të fillojë një ndryshim pozitiv.
+
+
+
+## Kodi/Të dhënat 
+
+# Kodi i shkruajtur në Javascript (OpenLayers)
+# Versioni: 2.0
+# I licensuar me licensën Creative Commons Attribution-ShareAlike 3.0 Unported License.
+# http://creativecommons.org/licenses/by-sa/3.0/
+#
+# Koduar nga: Altin Ukshini
+# Anëtar në FLOSSK
+# Kontakti: altin.ukshini@flossk.org
+
+

@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>points</name>
+<Schema name="points" id="points">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="user" type="string"></SimpleField>
+	<SimpleField name="tags" type="string"></SimpleField>
+	<SimpleField name="name" type="string"></SimpleField>
+</Schema>
+  <Placemark>
+    <name>Stacioni i Autobusëve</name><description><![CDATA[Stacioni kryesorë i autobusëve në Prishtinë<br />Tel: 	038 550 011, 038 540 142<br /><img src="images/busstation-image.jpg">]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.146779194756074,42.64997591183814</coordinates></Point>
+      	  <Style>   <IconStyle>   <scale>1.2</scale>   <Icon>    <href>images/busstation.png</href>   </Icon>   <hotSpot x="0.5" y="0.3" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:28:53Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.191530910240857,42.653099454464162</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.157127811921058,42.647695557274005</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.163817812441376,42.651568642594412</coordinates></Point>
+      	  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.158965793717833,42.661111559404929</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.159996203873739,42.657209742009961</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.159300350778555,42.65449517635416</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.158251815036415,42.650655032709309</coordinates></Point>
+
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.184779021352632,42.666394151209865</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.168599757901799,42.667664769994161</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.164902349218245,42.666762568928185</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.160564557036345,42.664956777817068</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.168583457318153,42.6530458450965</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.158436601893051,42.647261690408783</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.16330966090721,42.648213642724635</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.166426677071392,42.652272073012433</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.158628048165774,42.659622956742339</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.180561397898845,42.656271080869104</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.160448359697554,42.657988908539018</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.159027853775722,42.652618554914341</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.168010950216249,42.653598557710453</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.158474893660138,42.647490811569938</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.162082917825469,42.647671117697278</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.173091106847057,42.655855638318052</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.177030955539927,42.655871020524401</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.166537099148417,42.652803835565102</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.190630773963452,42.669262973795327</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.198194577986339,42.673289870339609</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.190427515615937,42.66908875595999</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.187682633995077,42.667716200251071</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.184296382269505,42.665941353067737</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.170660119164676,42.652090424980166</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.176361567891867,42.666594727797793</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.167799162710839,42.667284234254268</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.164667888352501,42.666903466635453</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.191655845003908,42.645796554636959</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:28:53Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.183598001552248,42.658616906301212</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.163379766917302,42.647685221968558</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.149788414657426,42.631104054905066</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.152092077371194,42.630744943006505</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.151383552101986,42.631446023358215</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.156804189764703,42.630078725266209</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.160932187953989,42.624558365122496</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.166660274527544,42.620059922841662</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.170481089393089,42.616607347335275</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.177784384305774,42.61549220302787</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.180483088599711,42.619630900640367</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.18851319883888,42.624080062890627</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.165320841688992,42.646820044224022</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.167465396334219,42.64619745196083</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.169764296347939,42.645532767197061</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.172183991277318,42.64594862131127</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.174295997693942,42.645669153877506</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.176624592472912,42.64601205024929</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.178756641802568,42.64650518530096</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.181044579609114,42.646407596015955</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.184173131574774,42.64662234965423</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.186754389651703,42.645637416863714</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.189010235304028,42.643960803166955</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.191427381734368,42.642935936035954</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.162643606949537,42.655213800190424</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.164486660171686,42.658813607850306</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.164789299812856,42.659859157260996</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.164917873030078,42.662460478467743</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.162946785969332,42.67003305652829</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.162358560871514,42.670451450991671</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.165136960365697,42.676323762563634</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.166198398425038,42.677665765237904</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.166298284769386,42.677847597342307</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.166948360410057,42.678611093027698</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.166261017053753,42.67955854806749</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.170354286298384,42.649396513626108</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.171494418203341,42.649985423643052</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.173516603060378,42.651365341425759</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.16584703872968,42.649649981580964</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.164025621137636,42.651787945426918</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.155264526482078,42.655108975927263</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.150709256306744,42.656004450214397</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.136255890720438,42.658291200389492</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.136668770589459,42.657743402534457</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.115157466707785,42.67275091108516</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.109749167735604,42.67449283854755</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.099320761270555,42.677463432894669</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.099533585945316,42.677256116798006</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.086806347273988,42.680834470675435</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.082899019260903,42.682093441639871</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.078143717934338,42.683431834251898</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.073521432029501,42.684732003118029</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.067532387499948,42.686829040192947</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.154595398100881,42.654694906710453</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.150007396032521,42.653418725140305</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.141874408387075,42.651099651201918</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.141760308280478,42.651338536700457</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.092307017791118,42.637322494400351</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.082064808209648,42.634888786857601</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.111065996684715,42.642932882790824</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.162784022846399,42.655022274189477</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.160643971883339,42.671129330969798</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.158269617007523,42.669215666414402</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.156509388715065,42.667041363392514</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.155400987200363,42.665312903451102</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.153322090767531,42.663222596923411</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.152764963230325,42.662637036303629</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.152708687721514,42.662488058870125</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.150495851181208,42.661092293035672</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.145976993084783,42.657864771919265</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.145955010464156,42.657965002944927</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.144468985309679,42.656742820058092</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.144310710441161,42.656733120097826</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.139531688716552,42.65793590363154</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.142313280226464,42.661007245867474</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.142345910678966,42.662072517305582</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.140202605167698,42.663113144216361</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.143530669371842,42.643485220313302</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.143523983882158,42.64459595503515</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.143746139103094,42.644990138814578</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.150129557992848,42.653672804900829</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.170145549584838,42.669213015815821</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.170287460203131,42.669622042485628</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.171273029447164,42.670860062163669</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.172553659248742,42.6723636725049</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.172524595954119,42.672459830877251</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.173552710001523,42.674356257264364</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.173891188396567,42.675092802986427</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.174853038132209,42.676674306174348</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.175161835637621,42.677465550136489</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.176312015522445,42.679809442740371</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.178930618368273,42.682101970482179</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.181935763032605,42.682668145575846</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.182984947968613,42.683095444116951</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.193160007417177,42.684855883109783</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.153790517800648,42.671370995978947</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.155659401367284,42.675272248101678</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.128599759123155,42.643050498917866</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-10-15T15:25:54Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.128634113600487,42.644743616218513</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.161554299462669,42.677806424543988</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.159224022574833,42.682530753961792</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.164626078127416,42.674816130660766</coordinates></Point>
+           <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Ndalesë autobusi</name><description><![CDATA[Ndalesë autobusi e rregullt]]></description>
+	<ExtendedData><SchemaData schemaUrl="#points">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.16376,42.64115</coordinates></Point>
+      	  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+</Folder></Document></kml>

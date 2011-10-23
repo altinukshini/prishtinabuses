@@ -1,0 +1,46 @@
+
+##### PRISHTINA BUSES - PROJECT #####
+
+
+
+## About the Project
+
+As the capital city, Prishtina has no information system on public bus transportation. However, there are 16 bus lines operating in Prishtina and in the closest area, but locals as well as internationals are very confused about its operation. This fact, together with our belief that people would use it more often if there is more information, was the main impetus to start this project.
+
+After the approval of the project by the UNICEF Innovations Lab, the bus tracking phase started.
+We took each bus line in a team of two and traced it with a Garmin GPS tracking devices with which we wrote down all the routes and bus stops. These informations were easily transferred into a computer with a map software.
+Also, as on the bus, we got exact information from the personnel on the bus operation schedule.
+
+After the Team had all bus lines informations, the IT guys worked hard to create this website until it looked like now.
+
+The long term objective of the Prishtina Busses project, which cost only around 500 Euros, is to contribute to the improvement of the quality of life in Prishtina and to support people to take buses more often rather than cars as well as to contribute to the decrease of pollution in the city.
+
+We hope it will serve as an inspiration for public administration to carry out and support this kind of project in other towns in Kosovo.
+
+We thank UNICEF Innovations Lab and FLOSSK team for their support and we encourage everyone with innovative ideas to make them real.
+
+
+
+## Team
+
+A group of enthusiastic young volunteers, both locals and internationals, with the passion for technology and innovation. The local team members (mainly FLOSSK members) are young guys with experience in the area of IT technologies, whereas two international volunteers contributed to the project with their skills and experience in project management.
+
+We are:    Gent Thaçi  -  Altin Ukshini  -  Lulzim Gashi  -  Giulia Martin  -  Daniela Bodnarova  -  Jeton Ahmetaj  -  Ardian Haxha  -  Besfort Guri  -  Ardi Hasimja  -  Shkelqim Ahmeti
+
+We committed our time in order to help make Prishtina a better place for living. We believe that each and every individual of our community can contribute in his own way and initiate a positive change.
+
+
+
+
+## Code
+
+# Code writen on Javascript (OpenLayers)
+# Version: 2.0
+# Licenced under Gnu Public License Creative Commons Attribution-ShareAlike 3.0 Unported License.
+# http://creativecommons.org/licenses/by-sa/3.0/
+#
+# Coded by: Altin Ukshini
+# FLOSSK member
+# Contact: altin.ukshini@flossk.org
+
+

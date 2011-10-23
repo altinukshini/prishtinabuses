@@ -1,0 +1,317 @@
+<html>
+<style type="text/css" media="screen">
+@import url(css/map.css);
+</style>
+<div style="background: none repeat scroll 0 0 #FFFFFF; color: #222222; font-family: 'Lucida Grande',Verdana,Geneva,Lucida,Arial,Helvetica,sans-serif; font-size: 75%; margin: -2px 0 0 0; line-height: 1.5;">
+	<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=true&amp;key=ABQIAAAAIJkIWUwL-qZOUgdjU9jEYBS-N4goPV7H5LfiEuoXMtUlDExD6xQNLVK7CL8MGcDbjRodyqkTBIaPvg" type="text/javascript"></script>
+	<script src="OpenLayers-2.11/lib/OpenLayers.js" type="text/javascript"></script>
+	<script src="OpenLayers-2.11/OSM/OpenStreetMap.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+	var lat=42.6587964665222; // Declaring Latitude
+	var lon=21.1601991592407; // Declaring Longtitude
+	var zoom=14; //Declaring Zoom Level
+        var map, select, options;
+
+		// Creating The main Function
+	        function init(){
+
+		var dproj = new OpenLayers.Projection("EPSG:4326"); // Declaring Display projection
+		var proj = new OpenLayers.Projection("EPSG:900913"); // Deckaring Projection
+		var center = new OpenLayers.LonLat(lon, lat); // 
+
+		// Adding map functions
+		options = {
+			'units': "m",
+			'maxResolution': 156543.0339,
+			'numZoomLevels' : 24,
+			'projection': proj,
+			'displayProjection': dproj,
+			'maxExtent' : new OpenLayers.Bounds(-20037508.34,-20037508.34, 20037508.34,20037508.34)
+		};
+
+		map = new OpenLayers.Map('map', options);
+
+		var osm = new OpenLayers.Layer.OSM(
+			"OpenStreetMap",
+			"http://tile.openstreetmap.org/${z}/${x}/${y}.png",
+			{
+				opacity: 0.6,
+				displayInLayerSwitcher: true,
+				isBaseLayer: true,
+				visibility: true
+			}
+		);
+
+
+		var layerMapnik = new OpenLayers.Layer.OSM.Mapnik("OpenStreetMap-no opacity");
+
+
+		// create Google Mercator layers
+		var gsat = new OpenLayers.Layer.Google(
+			"Google Satellite",
+			{
+				type: G_SATELLITE_MAP, 
+				sphericalMercator: true, 
+				numZoomLevels: 20, 
+				opacity: 1
+			}
+		);
+
+		var maplayers = [osm, layerMapnik, gsat];
+		map.addLayers(maplayers);
+
+
+			// Adding all Bus lines... 
+			// Each bus line has its own .kml file with a Name and Description in it.
+			// Theyre separated on their own layers, each one with a different color
+			// There are 16 Bus lines/kml files in total.
+			var line_1 = new OpenLayers.Layer.Vector(" Line no - 1", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#ff0000", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_1.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_2 = new OpenLayers.Layer.Vector(" Line no - 2", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#008000", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_2.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_3 = new OpenLayers.Layer.Vector(" Line no - 3", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#06dd50", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_3.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_3a = new OpenLayers.Layer.Vector(" Line no - 3A", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#ff8c00", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_3a.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_3b = new OpenLayers.Layer.Vector(" Line no - 3B", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#27b2d9", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_3b.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_4 = new OpenLayers.Layer.Vector(" Line no - 4", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#9f068b", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_4.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_4a = new OpenLayers.Layer.Vector(" Line no - 4A", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#f964db", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_4a.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_5 = new OpenLayers.Layer.Vector(" Line no - 5", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#770000", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_5.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_6 = new OpenLayers.Layer.Vector(" Line no - 6", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#06349f", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_6.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_6a = new OpenLayers.Layer.Vector(" Line no - 6A", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#f6d111", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_6a.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_7 = new OpenLayers.Layer.Vector(" Line no - 7", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#0aa8a8", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_7.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_7a = new OpenLayers.Layer.Vector(" Line no - 7A", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#9f9506", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_7a.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_7b = new OpenLayers.Layer.Vector(" Line no - 7B", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#7d7d7d", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_7b.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_8 = new OpenLayers.Layer.Vector(" Line no - 8", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#000dbba3", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_8.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_9 = new OpenLayers.Layer.Vector(" Line no - 9", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#f08080", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_9.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			var line_10 = new OpenLayers.Layer.Vector(" Line no - 10", {
+					visibility: true,
+					projection: dproj,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					style: {strokeWidth: 4, strokeColor: "#c4898c", strokeOpacity: 1},
+					protocol: new OpenLayers.Protocol.HTTP({
+						url: "lines/en/line_10.kml",
+						format: new OpenLayers.Format.KML
+					})
+			});
+
+			// Adding Busstops KML file.
+			var busstops = new OpenLayers.Layer.Vector("-&nbsp;&nbsp;Bus Stops", {
+					projection: map.displayProjection,
+					strategies: [new OpenLayers.Strategy.Fixed()],
+					protocol: new OpenLayers.Protocol.HTTP({
+					url: "busstops/points-en.kml",
+					format: new OpenLayers.Format.KML({
+						extractStyles: true,
+						extractAttributes: true
+						})
+					})
+			});
+
+		//var layers = [line_1, line_2, line_3, line_3a, line_3b, line_4, line_4a, line_5, line_6, line_6a, line_7, line_7a, line_7b, line_8, line_9, line_10, busstops];
+		var layers = [line_1, line_2, line_3, line_3a, line_4, line_5, line_6, line_6a, line_7, line_9, line_10, busstops] // Grouping layers
+		map.addLayers(layers); // Adding grouped layers
+
+		// Declaring Select feature Control with all layers in this code...
+		select = new OpenLayers.Control.SelectFeature(layers);
+          
+		for (var i = 0; i < layers.length; i++)
+		{
+			layers[i].events.on({
+                	"featureselected": onFeatureSelect,
+                	"featureunselected": onFeatureUnselect
+			})
+		};
+
+		map.addControl(select); // Adding Select Feature Control
+		map.setCenter(center.transform(dproj, proj), zoom); // Centering map with zoom level declared above "13"
+		map.addControl(new OpenLayers.Control.LayerSwitcher()); // Adding Layer Switcher for The layers
+		map.addControl(new OpenLayers.Control.MousePosition()); // Mouse Position in the map (Tells lat and lon on mouseover in the map)
+		map.addControl(new OpenLayers.Control.ScaleLine()); // 
+		select.activate(); // Activating Select Feature Control
+
+        }
+
+	// When Popup Closed - Function
+        function onPopupClose(evt) {
+            select.unselectAll();
+        }
+ 
+	// Function, Activated when selecting a line !
+	// This function reads the Name and Description from the kml file and shows it up in a popup.
+        function onFeatureSelect(event) {
+            var feature = event.feature;
+            var selectedFeature = feature;
+            var popup = new OpenLayers.Popup.FramedCloud("chicken", 
+                feature.geometry.getBounds().getCenterLonLat(),
+                new OpenLayers.Size(100,100),
+                "<h2>"+feature.attributes.name + "</h2>" + feature.attributes.description,
+                null, true, onPopupClose
+            );
+            feature.popup = popup;
+            map.addPopup(popup);
+        }
+
+	// When Line unselected
+        function onFeatureUnselect(event) {
+            var feature = event.feature;
+            if(feature.popup) {
+                map.removePopup(feature.popup);
+                feature.popup.destroy();
+                delete feature.popup;
+            }
+        }
+    </script>
+	<body onload="init()">
+		<div id="map" style="border: 1px solid; width: 927px; height: 520px;">
+		</div>
+	</body>
+</div>
+</html>

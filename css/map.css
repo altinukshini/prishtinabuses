@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.olControlAttribution {
+    font-size: smaller;
+ /*   left: 100px; */
+ /*   bottom: 0px; */
+    margin-bottom: -30px;
+    position: absolute;
+    display: block;
+}
+
+h2 {
+    border-bottom: 1px solid #AAAAAA;
+    color: #126186;
+    font-size: 120%;
+    margin: 0 5px 5px 0;
+    padding: 0 0 5px;
+}

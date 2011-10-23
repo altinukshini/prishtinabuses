@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-104825' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67481932733132' lon='21.164599990402937'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-104824' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.68253075396179' lon='21.159224022574833'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-104823' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67780558659628' lon='21.16153264345126'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-101901' action='modify' visible='true' lat='42.64474361621851' lon='21.128634113600487'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-101900' action='modify' visible='true' lat='42.643050498917866' lon='21.128599759123155'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-101899' action='modify' visible='true' lat='42.67527224810168' lon='21.155659401367284'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-101898' action='modify' visible='true' lat='42.67137099597895' lon='21.153790517800648'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98548' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.68485588310978' lon='21.193160007417177'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98547' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.68309544411695' lon='21.182984947968613'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98546' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.682668145575846' lon='21.181935763032605'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98545' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.68210197048218' lon='21.178930618368273'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98544' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67980944274037' lon='21.176312015522445'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98543' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67746555013649' lon='21.17516183563762'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98542' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67667430617435' lon='21.17485303813221'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98541' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67509280298643' lon='21.173891188396567'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98540' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.674356257264364' lon='21.173552710001523'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98539' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67245983087725' lon='21.17252459595412'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98538' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.6723636725049' lon='21.17255365924874'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98537' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67086006216367' lon='21.171273029447164'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98536' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66962204248563' lon='21.17028746020313'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98535' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66921301581582' lon='21.170145549584838'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98534' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.653638013284045' lon='21.150143471445908'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98533' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.64497514722964' lon='21.14368499599884'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98532' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.64457096889987' lon='21.143598714342914'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-98531' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.64343524714053' lon='21.143557844084846'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95310' action='modify' visible='true' lat='42.66311314421636' lon='21.140202605167698'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95309' action='modify' visible='true' lat='42.66207251730558' lon='21.142345910678966'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95308' action='modify' visible='true' lat='42.661007245867474' lon='21.142313280226464'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95307' action='modify' visible='true' lat='42.65793590363154' lon='21.139531688716552'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95306' action='modify' visible='true' lat='42.656733120097826' lon='21.14431071044116'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95305' action='modify' visible='true' lat='42.65674282005809' lon='21.14446898530968'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95304' action='modify' visible='true' lat='42.65796500294493' lon='21.145955010464156'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95303' action='modify' visible='true' lat='42.657864771919265' lon='21.145976993084783'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95302' action='modify' visible='true' lat='42.66109229303567' lon='21.15049585118121'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95301' action='modify' visible='true' lat='42.662488058870125' lon='21.152708687721514'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95300' action='modify' visible='true' lat='42.66263703630363' lon='21.152764963230325'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95299' action='modify' visible='true' lat='42.66322259692341' lon='21.15332209076753'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95298' action='modify' visible='true' lat='42.6653129034511' lon='21.155400987200363'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95297' action='modify' visible='true' lat='42.667041363392514' lon='21.156509388715065'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95296' action='modify' visible='true' lat='42.6692156664144' lon='21.158269617007523'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-95295' action='modify' visible='true' lat='42.6711293309698' lon='21.16064397188334'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92684' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.655037009136855' lon='21.162703881356787'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92683' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.642914972251326' lon='21.111083388501033'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92682' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.6348887868576' lon='21.082064808209648'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92681' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.63732249440035' lon='21.092307017791118'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92680' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.651356956475134' lon='21.14175196020864'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92679' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.651064858145695' lon='21.141977367939695'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92678' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.653408492272064' lon='21.150010178723132'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-92676' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65464630156868' lon='21.154612789917206'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86159' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.68682904019295' lon='21.06753238749995'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86158' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.68473200311803' lon='21.0735214320295'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86157' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.6834318342519' lon='21.07814371793434'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86156' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.68209344163987' lon='21.082899019260903'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86155' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.680834470675435' lon='21.08680634727399'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86154' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.677256116798006' lon='21.099533585945316'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86153' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67746343289467' lon='21.099320761270555'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86152' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67449283854755' lon='21.109749167735604'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86151' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67275091108516' lon='21.115157466707785'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86150' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65774340253446' lon='21.13666877058946'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86149' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65829120038949' lon='21.136255890720438'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86148' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.656006496702744' lon='21.15066195056635'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86146' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65508851074532' lon='21.15527496157187'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86145' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.651787945426896' lon='21.16400425007374'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-86144' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.649649981580964' lon='21.16584703872968'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-75030' action='modify' visible='true' lat='42.65136534142576' lon='21.173516603060378'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-75029' action='modify' visible='true' lat='42.64998542364305' lon='21.17149441820334'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-75028' action='modify' visible='true' lat='42.64939651362611' lon='21.170354286298384'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74296' action='modify' visible='true' lat='42.67955854806749' lon='21.166261017053753'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74295' action='modify' visible='true' lat='42.67860304883339' lon='21.166940153921523'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74294' action='modify' visible='true' lat='42.677843407606424' lon='21.16630854288006'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74293' action='modify' visible='true' lat='42.67766995498576' lon='21.16618928010444'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74292' action='modify' visible='true' lat='42.6763467780296' lon='21.165126525275912'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74291' action='modify' visible='true' lat='42.67045145099169' lon='21.162412910297526'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74290' action='modify' visible='true' lat='42.67001707194294' lon='21.16290874137113'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74289' action='modify' visible='true' lat='42.66246047846774' lon='21.164917873030078'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74288' action='modify' visible='true' lat='42.659859157260996' lon='21.164789299812856'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74287' action='modify' visible='true' lat='42.658813607850306' lon='21.164486660171686'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74286' action='modify' visible='true' lat='42.655189160152034' lon='21.162643606949537'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74285' action='modify' visible='true' lat='42.642935936035954' lon='21.191427381734368'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74284' action='modify' visible='true' lat='42.643947388702024' lon='21.189028471945218'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74283' action='modify' visible='true' lat='42.64565532661947' lon='21.186771781468025'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74282' action='modify' visible='true' lat='42.646637700630706' lon='21.184145304668657'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74281' action='modify' visible='true' lat='42.64641905811834' lon='21.181035674999162'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74280' action='modify' visible='true' lat='42.64650518530096' lon='21.17875664180257'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74279' action='modify' visible='true' lat='42.646037635459' lon='21.176620244518833'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74278' action='modify' visible='true' lat='42.645696663246184' lon='21.17430668322589'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74277' action='modify' visible='true' lat='42.645930281807786' lon='21.172187553121304'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74276' action='modify' visible='true' lat='42.64550078542374' lon='21.1697512524857'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74275' action='modify' visible='true' lat='42.64619745196083' lon='21.16746539633422'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-74272' action='modify' visible='true' lat='42.64682004422402' lon='21.16532084168899'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73797' action='modify' visible='true' lat='42.62408006289063' lon='21.18851319883888'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73796' action='modify' visible='true' lat='42.61963090064037' lon='21.18048308859971'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73795' action='modify' visible='true' lat='42.61549220302787' lon='21.177784384305774'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73794' action='modify' visible='true' lat='42.616607347335275' lon='21.17048108939309'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73793' action='modify' visible='true' lat='42.62005992284166' lon='21.166660274527544'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73792' action='modify' visible='true' lat='42.624558365122496' lon='21.16093218795399'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73791' action='modify' visible='true' lat='42.63007872526621' lon='21.156804189764703'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73790' action='modify' visible='true' lat='42.631446023358215' lon='21.151383552101986'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73789' action='modify' visible='true' lat='42.630744943006505' lon='21.152092077371194'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73788' action='modify' visible='true' lat='42.631104054905066' lon='21.149788414657426'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73787' action='modify' visible='true' lat='42.64768522196856' lon='21.163379766917302'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-73786' action='modify' visible='true' lat='42.64843872432419' lon='21.163528083972167'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-53132' action='modify' timestamp='2011-07-05T17:28:53Z' visible='true' lat='42.658636091320886' lon='21.18360234950633'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-53131' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.64577352785947' lon='21.191655845003908'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49806' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66685422855138' lon='21.164727727331407'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49804' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66728423425427' lon='21.16779916271084'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49802' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66659472779779' lon='21.176361567891867'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49800' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.652090424980166' lon='21.170660119164676'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49798' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66594763887508' lon='21.18428355963117'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49796' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66772259432239' lon='21.18764785036244'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49794' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.6690994831943' lon='21.190417485463275'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49792' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.67328987033961' lon='21.19819457798634'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49790' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66925358749009' lon='21.19063898045199'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49788' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65279616083823' lon='21.166575361144325'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49786' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65584863700558' lon='21.177017911677684'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49784' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.655833254793706' lon='21.1731258904797'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49782' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.647658837120424' lon='21.162074569753635'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49780' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.64747546080399' lon='21.158474893660138'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49778' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65360355421308' lon='21.168044918607503'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49776' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65262510403341' lon='21.15900559225083'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49774' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65797171858277' lon='21.16037367228154'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49772' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.6562391046169' lon='21.18056574585293'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49770' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65959676320972' lon='21.158619499740215'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49768' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66394482991069' lon='21.160743703578714'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49766' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65162973437041' lon='21.165924897082796'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49764' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.64838425913363' lon='21.163415625765698'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49762' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.647282158166206' lon='21.158443558619574'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49760' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65303817039945' lon='21.168538238595715'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49758' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.664948593041515' lon='21.160617428157963'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49756' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.666720664083265' lon='21.16492799449492'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49754' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66765974148725' lon='21.168608876222397'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49752' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66638647816024' lon='21.184796413168957'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49750' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65087361608572' lon='21.158323608454197'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49748' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65449517635416' lon='21.159300350778555'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49746' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.65720712255554' lon='21.16003226754406'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+  <node id='-49744' action='modify' timestamp='2011-07-05T17:08:58Z' visible='true' lat='42.66118931952817' lon='21.159029795601892'>
+    <tag k='highway' v='bus_stop' />
+  </node>
+</osm>
