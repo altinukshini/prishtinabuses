@@ -18,7 +18,7 @@
 		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>21.146779194756074,42.64997591183814</coordinates></Point>
-      	  <Style>   <IconStyle>   <scale>1.2</scale>   <Icon>    <href>images//busstation.png</href>   </Icon>   <hotSpot x="0.5" y="0.3" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+      	  <Style>   <IconStyle>   <scale>1.2</scale>   <Icon>    <href>images/busstation.png</href>   </Icon>   <hotSpot x="0.5" y="0.3" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
   <Placemark>
 	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
 	<ExtendedData><SchemaData schemaUrl="#points">
@@ -1479,5 +1479,145 @@
 		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>21.164010319329552,42.66753391724265</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+    <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.133901763809067,42.72191045491239</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.136370421003853,42.721230461953802</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.137450948927725,42.720970338235681</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.141881113649739,42.718747086852213</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.143577542307568,42.718134925888681</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.143907813424491,42.717783091398328</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.149163353373652,42.716625964113675</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.151315458586051,42.712798976921562</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.153995641445967,42.708131454423302</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.158067303514944,42.70133820411877</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.159642059932068,42.698297013965067</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.15952441770872,42.697740867494822</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.159226601709652,42.686913931826169</coordinates></Point>
+  <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
+  <Placemark>
+	<name>Bus stop</name><description><![CDATA[Regular Bus stop]]></description>
+	<ExtendedData><SchemaData schemaUrl="#extrabstops">
+		<SimpleData name="Name"></SimpleData>
+		<SimpleData name="timestamp">2011-07-05T17:08:58Z</SimpleData>
+		<SimpleData name="user"></SimpleData>
+		<SimpleData name="tags">&quot;highway&quot;=&quot;bus_stop&quot;</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.159046791658799,42.685561544211609</coordinates></Point>
   <Style>   <IconStyle>   <scale>0.9</scale>   <Icon>    <href>images/busstop.png</href>   </Icon>   <hotSpot x="0.7" y="0.2" xunits="fraction" yunits="fraction"/>  </IconStyle>  <LabelStyle>   <color>ff00aaff</color>  </LabelStyle> </Style></Placemark>
 </Folder></Document></kml>
