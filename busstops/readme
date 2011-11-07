@@ -1,0 +1,6 @@
+If these data are put online:
+
+You have to change the links inside .kml to take the icon or anything else.
+
+Example
+<href>images/busstation.png</href> 
