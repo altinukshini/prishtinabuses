@@ -1,6 +1,18 @@
 <html>
 <style type="text/css" media="screen">
-@import url(css/map.css);
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+h2 {
+    border-bottom: 1px solid #AAAAAA;
+    color: #126186;
+    font-size: 120%;
+    margin: 0 5px 5px 0;
+    padding: 0 0 5px;
+}
 </style>
 <div style="background: none repeat scroll 0 0 #FFFFFF; color: #222222; font-family: 'Lucida Grande',Verdana,Geneva,Lucida,Arial,Helvetica,sans-serif; font-size: 75%; margin: -2px 0 0 0; line-height: 1.5;">
 	<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=true&amp;key=ABQIAAAAIJkIWUwL-qZOUgdjU9jEYBS-N4goPV7H5LfiEuoXMtUlDExD6xQNLVK7CL8MGcDbjRodyqkTBIaPvg" type="text/javascript"></script>
@@ -264,7 +276,7 @@
 		// Declaring Select feature Control with all layers in this code...
 		select = new OpenLayers.Control.SelectFeature(layers);
           
-		for (var i = 0; i < layers.length; i++)
+		for (var i = 0; i<layers.length; i++)
 		{
 			layers[i].events.on({
                 	"featureselected": onFeatureSelect,
@@ -312,7 +324,7 @@
         }
     </script>
 	<body onload="init()">
-		<div id="map" style="border: 1px solid; width: 927px; height: 540px;">
+		<div id="map" style="box-shadow: 0pt 5px 15px rgba(0, 0, 10, 0.4); border: 3px solid #066E9F; width: 927px; height: 540px; border-radius: 20px 20px 20px 20px;">
 		</div>
 	</body>
 </div>

@@ -7,6 +7,7 @@ div.olMap {
 
 div.olMapViewport {
     text-align: left;
+    border-radius: 20px 20px 20px 20px;
 }
 
 div.olLayerDiv {
@@ -30,8 +31,8 @@ div.olLayerDiv {
 }
 .olControlAttribution {
     font-size: smaller; 
-    right: 3px; 
-    bottom: 4.5em; 
+    right: 15px; 
+    bottom: 20px; 
     position: absolute; 
     display: block;
 }
@@ -70,8 +71,8 @@ div.olLayerDiv {
 } 
 
 div.olControlMousePosition {
-    bottom: 0em;
-    right: 3px;
+    bottom: 5px;
+    right: 15px;
     display: block;
     position: absolute;
     font-family: Arial;
